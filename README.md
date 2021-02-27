@@ -15,6 +15,6 @@ Plug 'antimony-lang/antimony.vim'
 **Vundle**
 
 ```
-Plug 'antimony-lang/antimony.vim'
+Plugin 'antimony-lang/antimony.vim'
 ```
 
